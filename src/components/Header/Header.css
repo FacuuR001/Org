@@ -1,0 +1,14 @@
+.header {
+    background: #6278F7;
+    text-align: center;
+}
+
+.header img {
+    max-width: 70%;
+}
+
+@media (max-width: 768px) { 
+    .header img {
+        max-width: 90%;
+    }
+}

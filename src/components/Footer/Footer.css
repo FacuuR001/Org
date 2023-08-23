@@ -6,6 +6,7 @@
     box-sizing: border-box;
     background-size: cover;
     background-position: center;
+    background-image: url("../../../public/img/Footer.png");
     justify-content: space-between;
     color: #fff;
     font-size: 20px;
@@ -14,6 +15,8 @@
 .redes img{
     padding: 0px 15px;
 }
+
+
 
 @media (min-width: 768px) { 
     .autor {

@@ -15,7 +15,7 @@ const Footer = () => {
                 </a>
             </div>
             <img className="logo-footer" src='/img/Logo.png' alt='org' />
-            <strong className="autor">Desarrollado por Facundo Rullo</strong>
+            <strong className="autor">&copy; Desarrollado por Facundo Rullo</strong>
         </footer>
     );
 }
